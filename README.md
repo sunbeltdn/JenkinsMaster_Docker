@@ -7,4 +7,4 @@
 3. after container startup, default URL to access jenkins server:
     https://hostname:8082
 
-4. in this docker, git/github/pipeline/role-strategy has been installed
+4. in this docker, plugins: git/github/pipeline/role-strategy has been installed
