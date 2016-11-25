@@ -1,2 +1,2 @@
 #!/bin/sh
-docker build --tag=jenkinsMaster .
+docker build --tag=jenkinsmaster .
